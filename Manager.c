@@ -82,3 +82,4 @@ void init(manager* m)
 	m->nprod = 0;
 	m->products = 0;
 }
+//update!!!!!!!!!!!!!!!!!!!!!
