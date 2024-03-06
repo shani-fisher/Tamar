@@ -5,3 +5,4 @@ typedef struct {
 	int price;
 }suggest;
 #endif // !SUGGEST_H
+#hjguyguiu
