@@ -1,0 +1,2 @@
+F:\C\test\x64\Debug\test.exe
+I:\C\test\x64\Debug\test.exe
